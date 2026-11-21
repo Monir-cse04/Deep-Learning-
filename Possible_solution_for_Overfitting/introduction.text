@@ -1,0 +1,12 @@
+<h1> ANN are prone to overfitting <\h1> 
+
+ to slove the problem there are some possible solution
+ i) l1 & l2 Regulization
+ 
+ ii) Dropouts layers
+ 
+ iii) Early stopping
+ 
+ iv) Reduce complexity (reduce hidden layers )
+ 
+ v) increase data
